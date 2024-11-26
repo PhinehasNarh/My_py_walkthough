@@ -12,3 +12,6 @@ print(type((3.14159)))
 
 #results
 print("Number of letters in your name: " +  str(len(input("Enter your name"))))
+
+
+#ph1n3y
