@@ -1,6 +1,6 @@
 # my_py_journey
 
-This repository contains Python scripts I'm developing on my cybersecurity journey. It's a collection of tools for various security tasks, including reconnaissance, exploitation, analysis, and defense, but it began with how I mastered python- in all it's my playground
+A collection of Python scripts exploring various programming concepts and practical applications, from simple games to a productive system etc. This repository serves as a learning journal and a showcase of my Python skills.
 
 Feel free to explore, learn, and contribute!
 
