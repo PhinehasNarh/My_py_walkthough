@@ -1,4 +1,3 @@
-#Treasure Island Game
 print(r'''
 *******************************************************************************
           |                   |                  |                     |
@@ -40,3 +39,5 @@ elif cross_roads=="left":
             print("You found the treasure! You Win!!")
         elif door=="blue":
             print("You enter a room full of hungry beasts. Game Over!")
+        else :
+            print("The door you chose dosen't exist! Game over!")
