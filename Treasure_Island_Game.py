@@ -35,8 +35,8 @@ elif cross_roads=="left":
         print("You arrived at a island unharmed. There is a house with 3 doors.\n One red, one yellow and one blue. Which colour do you choose?")
         door=input("Type 'red', 'yellow' or 'blue': ").lower()
         if door=="red":
-            print("Got flammed out into ashes. Game Over!")
+            print("It's a room full of fire. Game Over!")
         elif door=="yellow":
             print("You found the treasure! You Win!!")
         elif door=="blue":
-            print("Wrong door, no treasure. Game Over!")
+            print("You enter a room full of hungry beasts. Game Over!")
