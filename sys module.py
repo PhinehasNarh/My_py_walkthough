@@ -1,3 +1,4 @@
+#prints out computer system information
 import sys
 print("Platform:",sys.platform)
 print(sys.stdout.write("writiing in standard output"))
