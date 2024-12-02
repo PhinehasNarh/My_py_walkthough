@@ -7,3 +7,11 @@ print(random_number)
 import random
 random_number_0_to_1 =random.random()
 print(random_number_0_to_1)  
+
+#Heads or Tails game
+import random
+# prints a random integer in the range [1, 2]
+if random.randint(1, 2) == 1:
+    print("HEAD")
+else:
+    print("TAIL")
