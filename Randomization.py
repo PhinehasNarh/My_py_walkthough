@@ -15,3 +15,14 @@ if random.randint(1, 2) == 1:
     print("HEAD")
 else:
     print("TAIL")
+
+#randomizing lists
+import random
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+random.shuffle(friends)
+print(friends[0])
+#OR
+random_index=random.randint(0,4)
+print(friends[random_index])
+#OR
+print(random.choice(friends))
