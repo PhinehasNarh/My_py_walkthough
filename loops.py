@@ -15,7 +15,7 @@ print(max_score)
 
 
 
-#Carl Gauss' 1-100 addtion 
+#Carl Gauss' 1-100 addtion trick in py
 num_add=0
 for number in range(1,101):
     num_add+=number
