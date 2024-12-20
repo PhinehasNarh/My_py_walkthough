@@ -12,3 +12,22 @@ for score in student_scores:
     if score > max_score:
         max_score=score
 print(max_score)
+
+
+
+#Carl Gauss 1-100 addtion 
+num_add=0
+for number in range(1,101):
+    num_add+=number
+print(num_add)
+
+#FizzBuzz
+for number in range(1,101):
+    if number % 3 == 0 and number % 5 == 0:
+        print("FizzBuzz")
+    elif number % 5 == 0:
+        print("Buzz")
+    elif number % 3 == 0:
+        print("Fizz")
+    else:
+        print(number)
