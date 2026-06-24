@@ -1,0 +1,2 @@
+# GeoIP lookups need geoip2 plus a GeoLite2-City.mmdb database (free from MaxMind).
+geoip2

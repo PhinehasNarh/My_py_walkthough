@@ -1,0 +1,4 @@
+# Also requires the Tesseract OCR engine installed separately (see main.py header).
+pytesseract
+Pillow
+pyperclip

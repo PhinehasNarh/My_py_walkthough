@@ -1,0 +1,2 @@
+# Core analysis is standard library; matplotlib is only needed for --chart.
+matplotlib
