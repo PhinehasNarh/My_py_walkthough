@@ -1,0 +1,4 @@
+# Normalize line endings to LF so Windows checkouts don't trigger CRLF warnings.
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
